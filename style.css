@@ -3,7 +3,7 @@
     box-sizing:border-box;
 }
 
-.header{
+.hero-section-one{
     display:flex;
     align-items:center;
     justify-content:space-around;
