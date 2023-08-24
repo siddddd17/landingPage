@@ -32,8 +32,10 @@ a{
 
 .hero-section-two{
     display:flex;
-    padding:16px;
+    padding:50px;
     justify-content:space-around;
+    height:400px;
+    align-items:center;
 }
 .two-container{
     display:flex;
@@ -51,4 +53,13 @@ a{
     font-size:18px;
     color:#E5E7EB;
 }
+button{
+    padding:12px;
+    width:100px;
+    background-color:#24a0ed;
+    color:white;
+    border-radius:10px;
+    cursor:pointer;
+}
+
 
