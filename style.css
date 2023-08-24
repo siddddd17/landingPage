@@ -61,5 +61,8 @@ button{
     border-radius:10px;
     cursor:pointer;
 }
-
+.two-container .two-image{
+    flex-basis:300px;
+    background-color:grey;
+}
 
