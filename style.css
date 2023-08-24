@@ -131,10 +131,38 @@ button{
     padding:80px 200px;
 }
 .four-container{
+    display:flex;
     background-color:#3882F6;
     border-radius:10px;
-    padding:16px;
+    padding:60px 30px;
+    justify-content:space-around;
 }
+.text-container{
+    display:flex;
+    flex-direction:column;
+    gap:5px;
+}
+.text-container .main-text{
+    font-weight:bold;
+    font-size:20px;
+    color:white;
+}
+.text-container .sub-text{
+    color:white;
+}
+.section-four .button-container{
+    color:#E5E7EB;
+}
+.section-four .sign-up{
+    background-color:#3882F6;
+    border-radius:10px;
+    border:2px solid white;
+}
+
+
+    
+
+
 
 
 
