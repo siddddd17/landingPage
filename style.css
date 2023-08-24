@@ -75,5 +75,18 @@ button{
     padding:24px;
     margin:0px;
 }
+.cards{
+    display:flex;
+    gap:20px;
+    padding:16px;
+    justify-content:center;
+
+}
+.cards .card{
+    flex-basis:200px;
+    min-height:300px;
+    border:2px solid blue;
+    border-radius:10px;
+}
 
 
