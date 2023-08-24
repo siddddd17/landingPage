@@ -65,5 +65,15 @@ button{
     flex-basis:300px;
     background-color:grey;
 }
+.section-two .heading{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-size:36px;
+    font-weight:700;
+    color:#1F2937;
+    padding:24px;
+    margin:0px;
+}
 
 
