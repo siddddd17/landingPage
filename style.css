@@ -158,6 +158,14 @@ button{
     border-radius:10px;
     border:2px solid white;
 }
+footer{
+    background-color:#1f2937 ;
+    color:white;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    padding:64px;
+}
 
 
     
