@@ -7,7 +7,7 @@
 
 .hero-section{
     background-color:#1F2937;
-    color:white;
+    color:white;  
 }
 .hero-section-one{
     display:flex;
@@ -23,9 +23,10 @@
 }
 .header-links{
     display:flex;
-    gap:16px;
+    gap:20px;
     color:#E5E7EB;
 }
+
 ul{
     list-style-type:none;
 }
